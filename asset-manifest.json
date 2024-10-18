@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather-project/static/css/main.a80c2475.css",
+    "main.js": "/weather-project/static/js/main.002d6c07.js",
+    "static/media/IBMPlexSansArabic-Regular.ttf": "/weather-project/static/media/IBMPlexSansArabic-Regular.dae364fb9c2b717518c7.ttf",
+    "index.html": "/weather-project/index.html",
+    "static/media/getFetch.cjs": "/weather-project/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.a80c2475.css.map": "/weather-project/static/css/main.a80c2475.css.map",
+    "main.002d6c07.js.map": "/weather-project/static/js/main.002d6c07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a80c2475.css",
+    "static/js/main.002d6c07.js"
+  ]
+}
